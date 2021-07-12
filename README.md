@@ -1,3 +1,9 @@
+# live [DEMO](https://slack-b7072.web.app/)
+
+# screenshots 
+![image](https://user-images.githubusercontent.com/66422819/125350577-a7785e00-e37e-11eb-92a1-e87b3fd7b34e.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
